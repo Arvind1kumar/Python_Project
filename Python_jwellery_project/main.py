@@ -2,7 +2,7 @@ import time
 import pandas as pd
 
 # author Arvind kumar
-# learning purpose 
+
 import pyodbc
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=ARVIND-PC;'
